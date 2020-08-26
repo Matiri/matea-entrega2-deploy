@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/matea-entrega2-deploy/static/css/main.27db1981.chunk.css",
+    "main.js": "/matea-entrega2-deploy/static/js/main.73c7fb1c.chunk.js",
+    "main.js.map": "/matea-entrega2-deploy/static/js/main.73c7fb1c.chunk.js.map",
+    "runtime-main.js": "/matea-entrega2-deploy/static/js/runtime-main.2919ea15.js",
+    "runtime-main.js.map": "/matea-entrega2-deploy/static/js/runtime-main.2919ea15.js.map",
+    "static/js/2.b84ab868.chunk.js": "/matea-entrega2-deploy/static/js/2.b84ab868.chunk.js",
+    "static/js/2.b84ab868.chunk.js.map": "/matea-entrega2-deploy/static/js/2.b84ab868.chunk.js.map",
+    "index.html": "/matea-entrega2-deploy/index.html",
+    "precache-manifest.4bedfa3458a8dc357bc47dbe73b234eb.js": "/matea-entrega2-deploy/precache-manifest.4bedfa3458a8dc357bc47dbe73b234eb.js",
+    "service-worker.js": "/matea-entrega2-deploy/service-worker.js",
+    "static/css/main.27db1981.chunk.css.map": "/matea-entrega2-deploy/static/css/main.27db1981.chunk.css.map",
+    "static/js/2.b84ab868.chunk.js.LICENSE.txt": "/matea-entrega2-deploy/static/js/2.b84ab868.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2919ea15.js",
+    "static/js/2.b84ab868.chunk.js",
+    "static/css/main.27db1981.chunk.css",
+    "static/js/main.73c7fb1c.chunk.js"
+  ]
+}
